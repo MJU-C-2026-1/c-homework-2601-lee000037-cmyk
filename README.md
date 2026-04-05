@@ -56,7 +56,7 @@
     
 ### **📁 증빙 자료:**
   * https://github.com/MJU-C-2026-1/c-homework-2601-lee000037-cmyk/blob/main/%EC%95%BC%EA%B5%AC%20%EC%84%A0%EC%88%98%20%EA%B8%B0%EB%A1%9D%20C%EC%96%B8%EC%96%B4%20%EB%B3%80%EC%88%98%20%EC%84%A4%EA%B3%84.pdf
-  * 
+  * https://github.com/MJU-C-2026-1/c-homework-2601-lee000037-cmyk/blob/main/C%EC%96%B8%EC%96%B4%20%26%20%EC%97%B0%EC%82%B0%EC%9E%90_%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EB%B3%80%EC%88%98%20%EC%A3%BC%EC%86%8C.pdf
   * https://github.com/MJU-C-2026-1/c-homework-2601-lee000037-cmyk/blob/main/%EC%BA%A1%EC%B2%98%20%ED%99%94%EB%A9%B4-1%EC%B0%A8%20%EA%B3%BC%EC%A0%9C_%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC.png
 
 <br>
