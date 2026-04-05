@@ -55,7 +55,9 @@
      * **해결:** 강의자료와 AI 검색을 통해 문자열 배열은 & 기호를 붙이지 않는다는 사실 확인.
     
 ### **📁 증빙 자료:**
-  * 
+  * https://github.com/MJU-C-2026-1/c-homework-2601-lee000037-cmyk/blob/main/ai%ED%98%91%EC%97%85%EC%A6%9D%EB%AA%851.pdf
+  * https://github.com/MJU-C-2026-1/c-homework-2601-lee000037-cmyk/blob/main/ai%ED%98%91%EC%97%85%EC%A6%9D%EB%AA%852.pdf
+  * https://github.com/MJU-C-2026-1/c-homework-2601-lee000037-cmyk/blob/main/%EC%BA%A1%EC%B2%98%20%ED%99%94%EB%A9%B4-1%EC%B0%A8%20%EA%B3%BC%EC%A0%9C_%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC.jpg
 
 <br>
 
